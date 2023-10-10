@@ -1,5 +1,5 @@
 
-original: https://hackmd.io/D-_zioqNRr-ah08WZFQcIw
+original: https://hackmd.io/@ugur187/homework1
 
 Some modular arithmetic
 
